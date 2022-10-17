@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on ExampleSite</title>
+    <link>https://alonga.xyz/post/</link>
+    <description>Recent content in Posts on ExampleSite</description>
+    <image>
+      <url>https://alonga.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alonga.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Oct 2022 00:33:13 +0800</lastBuildDate><atom:link href="https://alonga.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SocialNetwork</title>
+      <link>https://alonga.xyz/post/socialnetwork/</link>
+      <pubDate>Sun, 16 Oct 2022 00:33:13 +0800</pubDate>
+      
+      <guid>https://alonga.xyz/post/socialnetwork/</guid>
+      <description>SocialNetwork Goal and Work Hard idea is cheap 1 2 3 4 5 int main(){ std::cout&amp;lt;&amp;lt;&amp;#34;piece of shit&amp;#34;;//fuckyafuihqlwfiluqfhqwliufehqwihfwqufhiwqlfhwq //把网页端的字体换成了最爱的等宽中英文，世界仿佛都变得平静 } Git submodule 经常碰到这种情况：当你在一个Git 项目上工作时，你需要在其中使用另外一个Git 项目。也许它是一个第三方开发的Git 库或者是你独立开发和并在多个父项目中使用的。这个情况下一个常见的问题产生了：你想将两个项目单独处理但是又需要在其中一个中使用另外一个。
+在Git 中你可以用子模块submodule来管理这些项目，submodule允许你将一个Git 仓库当作另外一个Git 仓库的子目录。这允许你克隆另外一个仓库到你的项目中并且保持你的提交相对独立。
+添加子模块 将本地部署到GitHub 本地同步到Github 本地的图片怎样同步到Github CDN怎样加速图片 最终的效果就是云端访问笔记网站无障碍，本地记录笔记贴图方便流程透明 </description>
+    </item>
+    
+    <item>
+      <title>Mymine</title>
+      <link>https://alonga.xyz/post/mymine/</link>
+      <pubDate>Sat, 09 Jul 2022 12:32:57 +0800</pubDate>
+      
+      <guid>https://alonga.xyz/post/mymine/</guid>
+      <description>Chapter Ⅰ 多年以后，奥雷连诺上校站在行刑队面前，准会想起父亲带他去参观冰块的那个遥远的下午。当时，马孔多是个二十户人家的村庄，一座座土房都盖在河岸上，河水清澈，沿着遍布石头的河床流去，河里的石头光滑、洁白，活象史前的巨蛋。这块天地还是新开辟的，许多东西都叫不出名字，不得不用手指指点点。
+每年三月，衣衫褴楼的吉卜赛人都要在村边搭起帐篷，在笛鼓的喧嚣声中，向马孔多的居民介绍科学家的最新发明。他们首先带来的是磁铁。一个身躯高大的吉卜赛人，自称梅尔加德斯，满脸络腮胡子，手指瘦得象鸟的爪子，向观众出色地表演了他所谓的马其顿炼金术士创造的世界 第八奇迹。他手里拿着两大块磁铁，从一座农舍走到另一座农舍，大家都惊异地看见，铁锅、铁盆、铁钳、铁炉都从原地倒下，木板上的钉子和螺丝嘎吱嘎吱地拼命想挣脱出来，甚至那些早就丢失的东西也从找过多次的地方兀然出现，乱七八糟地跟在梅尔加德斯的魔铁后面“东西也是有生命的，”吉卜赛人用刺耳的声调说，“只消唤起它们的灵性。”霍·阿·布恩蒂亚狂热的想象力经常超过大自然的创造力，甚至越过奇迹和魔力的限度，他认为这种暂时无用的科学发明可以用来开采地下的金子。
+System call Description int fork() Create a process, return child&amp;rsquo;s PID. int exit(int status) Terminate the current process; status reported to wait(). No return. int wait(int *status) Wait for a child to exit; exit status in *status; returns child PID. int kill(int pid) Terminate process PID. Returns 0 , or -1 for error. int getpid() Return the current process&amp;rsquo;s PID. int sleep(int n) Pause for n clock ticks.</description>
+    </item>
+    
+    <item>
+      <title>Myfirst</title>
+      <link>https://alonga.xyz/post/myfirst/</link>
+      <pubDate>Sat, 09 Jul 2022 01:14:22 +0800</pubDate>
+      
+      <guid>https://alonga.xyz/post/myfirst/</guid>
+      <description>关于PaperMod与Hugo PaperMod主题非常的简洁有一种纸质的质朴,看起来感觉很舒服.
+目前已经掌握的情报 目前已经进行的修改有 更改了主题默认的字体 =&amp;gt; &amp;ldquo;CaskaydiaCove Nerd Font&amp;rdquo; ,&amp;ldquo;更纱黑体&amp;rdquo; 但是本地没有这俩字体指定是显示成其他的字体了,好像有一种解决方案是将这些字体进行CDN加速啥的,具体实现是让这俩字体在一个GitHub仓库里然后在配置文件里填入两行链接啥的.准备在以后给仓库图片做加速的时候再说吧.目前觉得没必要搞太多的图片啥的,不方便管理能用文本尽量用文本吧.
+Hugo博客目录修改至侧边 评论功能和浏览访问啥的算了吧,闲得慌真的是. 为什么不能只用中文的字符和英文的逗号句号,感觉 需求 分类需要执行什么操作? 大概要分出来哪些类 记得记录好博客搭建中遇到的教程 关于分类的详细知识 分类的定义 Hugo包含对用户定义的内容分类-taxonomies 标签的支持. 标签是对内容逻辑关系的分类.
+定义 Definitions 标签 Taxonomy 可以被用来对内容分类的类型 条目 Term 分类中的键 值 Value 赋值某条目的一条内容 分类举例: 电影网站 我们假设在建的是关于电影的网站。您可能想包括如下分类:
+Actors 演员 Directors 导演 Studios 工作室 Genre 电影类型 Year 年份 Awards 获奖 然后, 对每个电影, 需要声明这些分类的条目(比如，在每个电影内容文件的front matter部分)。对于这些条目，Hugo自动为每个演员、导演、工作室、电影类型、年份和获奖情况创建对应页面，每个页面包含属于特定演员、导演、工作室、电影类型、年份或获奖情况的电影的列表。🙂 🙂
+Hugo怎么分类 </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://alonga.xyz/post/about/</link>
+      <pubDate>Sat, 09 Jul 2022 01:14:11 +0800</pubDate>
+      
+      <guid>https://alonga.xyz/post/about/</guid>
+      <description>who am i who are you and then? cadwa</description>
+    </item>
+    
+  </channel>
+</rss>
