@@ -18,7 +18,9 @@
       <guid>https://alonga.xyz/post/socialnetwork/</guid>
       <description>SocialNetwork Goal and Work Hard idea is cheap 1 2 3 4 5 int main(){ std::cout&amp;lt;&amp;lt;&amp;#34;piece of shit&amp;#34;;//fuckyafuihqlwfiluqfhqwliufehqwihfwqufhiwqlfhwq //把网页端的字体换成了最爱的等宽中英文，世界仿佛都变得平静 } Git submodule 经常碰到这种情况：当你在一个Git 项目上工作时，你需要在其中使用另外一个Git 项目。也许它是一个第三方开发的Git 库或者是你独立开发和并在多个父项目中使用的。这个情况下一个常见的问题产生了：你想将两个项目单独处理但是又需要在其中一个中使用另外一个。
 在Git 中你可以用子模块submodule来管理这些项目，submodule允许你将一个Git 仓库当作另外一个Git 仓库的子目录。这允许你克隆另外一个仓库到你的项目中并且保持你的提交相对独立。
-添加子模块 将本地部署到GitHub 本地同步到Github 本地的图片怎样同步到Github CDN怎样加速图片 最终的效果就是云端访问笔记网站无障碍，本地记录笔记贴图方便流程透明 </description>
+git add . 将当前仓库所有文件提交至stage(暂存区),如果你处于当前仓库的某个文件夹内一样会将上一级目录的一切提交至暂存区. git commit -m &amp;ldquo;some words&amp;rdquo; 将暂存区的文件提交. git push origin master 将当前提交的文件push到云端 有时候需要添加 -f 强制推送至远端 覆盖掉远端的库 当远端的库有些文件你没有的时候你push会出现error git pull origin master 将云端的同步到本地.
+添加子模块 将本地部署到GitHub 本地同步到Github 本地的图片怎样同步到Github CDN怎样加速图片 最终的效果就是云端访问笔记网站无障碍，本地记录笔记贴图方便流程透明 KMP knuth-Morris-Pratt字符串查找算法，给定一段长度为N的文本和一个长度为M的模式(Pattem)字符串,在文中找到一个和该模式相符的子字符串.
+about</description>
     </item>
     
     <item>
@@ -42,7 +44,7 @@ System call Description int fork() Create a process, return child&amp;rsquo;s PI
 目前已经掌握的情报 目前已经进行的修改有 更改了主题默认的字体 =&amp;gt; &amp;ldquo;CaskaydiaCove Nerd Font&amp;rdquo; ,&amp;ldquo;更纱黑体&amp;rdquo; 但是本地没有这俩字体指定是显示成其他的字体了,好像有一种解决方案是将这些字体进行CDN加速啥的,具体实现是让这俩字体在一个GitHub仓库里然后在配置文件里填入两行链接啥的.准备在以后给仓库图片做加速的时候再说吧.目前觉得没必要搞太多的图片啥的,不方便管理能用文本尽量用文本吧.
 Hugo博客目录修改至侧边 评论功能和浏览访问啥的算了吧,闲得慌真的是. 为什么不能只用中文的字符和英文的逗号句号,感觉 需求 分类需要执行什么操作? 大概要分出来哪些类 记得记录好博客搭建中遇到的教程 关于分类的详细知识 分类的定义 Hugo包含对用户定义的内容分类-taxonomies 标签的支持. 标签是对内容逻辑关系的分类.
 定义 Definitions 标签 Taxonomy 可以被用来对内容分类的类型 条目 Term 分类中的键 值 Value 赋值某条目的一条内容 分类举例: 电影网站 我们假设在建的是关于电影的网站。您可能想包括如下分类:
-Actors 演员 Directors 导演 Studios 工作室 Genre 电影类型 Year 年份 Awards 获奖 然后, 对每个电影, 需要声明这些分类的条目(比如，在每个电影内容文件的front matter部分)。对于这些条目，Hugo自动为每个演员、导演、工作室、电影类型、年份和获奖情况创建对应页面，每个页面包含属于特定演员、导演、工作室、电影类型、年份或获奖情况的电影的列表。🙂 🙂
+Actors 演员 Directors 导演 Studios 工作室 Genre 电影类型 Year 年份 Awards 获奖 然后, 对每个电影, 需要声明这些分类的条目(比如，在每个电影内容文件的front matter部分)。对于这些条目，Hugo自动为每个演员、导演、工作室、电影类型、年份和获奖情况创建对应页面，每个页面包含属于特定演员、导演、工作室、电影类型、年份或获奖情况的电影的列表。
 Hugo怎么分类 </description>
     </item>
     
