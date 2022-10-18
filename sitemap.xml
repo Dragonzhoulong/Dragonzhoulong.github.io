@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alonga.xyz/tags/electronic/</loc>
+    <lastmod>2022-10-18T22:27:53+08:00</lastmod>
+  </url><url>
+    <loc>https://alonga.xyz/post/eletronic/</loc>
+    <lastmod>2022-10-18T22:27:53+08:00</lastmod>
+  </url><url>
     <loc>https://alonga.xyz/</loc>
-    <lastmod>2022-10-16T00:33:13+08:00</lastmod>
+    <lastmod>2022-10-18T22:27:53+08:00</lastmod>
   </url><url>
     <loc>https://alonga.xyz/post/</loc>
-    <lastmod>2022-10-16T00:33:13+08:00</lastmod>
+    <lastmod>2022-10-18T22:27:53+08:00</lastmod>
+  </url><url>
+    <loc>https://alonga.xyz/tags/</loc>
+    <lastmod>2022-10-18T22:27:53+08:00</lastmod>
+  </url><url>
+    <loc>https://alonga.xyz/tags/%E6%A8%A1%E7%94%B5/</loc>
+    <lastmod>2022-10-18T22:27:53+08:00</lastmod>
   </url><url>
     <loc>https://alonga.xyz/post/socialnetwork/</loc>
     <lastmod>2022-10-16T00:33:13+08:00</lastmod>
@@ -18,9 +30,6 @@
     <lastmod>2022-07-09T01:14:22+08:00</lastmod>
   </url><url>
     <loc>https://alonga.xyz/post/myfirst/</loc>
-    <lastmod>2022-07-09T01:14:22+08:00</lastmod>
-  </url><url>
-    <loc>https://alonga.xyz/tags/</loc>
     <lastmod>2022-07-09T01:14:22+08:00</lastmod>
   </url><url>
     <loc>https://alonga.xyz/post/about/</loc>

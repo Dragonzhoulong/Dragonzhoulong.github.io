@@ -9,7 +9,16 @@
       <link>https://alonga.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Oct 2022 00:33:13 +0800</lastBuildDate><atom:link href="https://alonga.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Oct 2022 22:27:53 +0800</lastBuildDate><atom:link href="https://alonga.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eletronic</title>
+      <link>https://alonga.xyz/post/eletronic/</link>
+      <pubDate>Tue, 18 Oct 2022 22:27:53 +0800</pubDate>
+      
+      <guid>https://alonga.xyz/post/eletronic/</guid>
+      <description>关于BJT </description>
+    </item>
+    
     <item>
       <title>SocialNetwork</title>
       <link>https://alonga.xyz/post/socialnetwork/</link>
