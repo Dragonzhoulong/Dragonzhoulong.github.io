@@ -16,7 +16,7 @@
       <pubDate>Tue, 18 Oct 2022 22:27:53 +0800</pubDate>
       
       <guid>https://alonga.xyz/post/eletronic/</guid>
-      <description>关于BJT </description>
+      <description>关于BJT 发射极电流: 由于 $\mathrm{B}-\mathrm{E}$ 结为正向偏置, 所以希望通过此结的电流为 $\mathrm{B}-\mathrm{E}$ 之间电压的指 数函数, 正如以前所看到的通过 PN 结的电流是二极管正向偏置电压的指数函数。则可以 写出发射极的电流为 $$ i_E=I_{E O}\left(\mathrm{e}^{v_{B E} / V_T}-1\right) \approx I_{E O} \mathrm{e}^{v_{B E} / v_T} $$ 式中, 忽略了 $(-1)$ 项所得的近似值在通常情况下是正确的, 因为在很多情况下都有 $v_{B E} \gg$ 发射系数 $n$ 和 $V_T$ 相乘的值为 1 。带负电荷的电子流通过发射极流人到基极, 和电流方向相反</description>
     </item>
     
     <item>
