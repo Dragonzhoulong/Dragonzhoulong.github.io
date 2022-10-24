@@ -20,7 +20,7 @@
 关于BJT 发射极电流: 由于 $\mathrm{B}-\mathrm{E}$ 结为正向偏置, 所以希望通过此结的电流为 $\mathrm{B}-\mathrm{E}$ 之间电压的指 数函数, 正如以前所看到的通过 PN 结的电流是二极管正向偏置电压的指数函数.则可以 写出发射极的电流为 $$ i_E=I_{E O}\left(\mathrm{e}^{v_{B E} / V_T}-1\right) \approx I_{E O} \mathrm{e}^{v_{B E} / v_T} $$ 式中,忽略了$(-1)$项所得的近似值在通常情况下是正确的,因为在很多情况下都有 $v_{B E}\gg{V_T}$发射系数 $n$ 和 $V_T$ 相乘的值为1.带负电荷的电子流通过发射极流人到基极,和电流方向相反. BJT的特性就是这样,$i_E,i_C,i_B$都是仅和$v_{BE}$呈指数关系,$i_E$作为emitter,发射极电流自然是最大的,$i_C$和$i_B$都是依赖发射极电流来产生
 在Hugo博客中添加行内和行间Latex语法支持的方法 this the tutorial戴维南电路和诺顿电路等效 高频小信号放大器 混合$\pi$模型与混合h模型 混合h模型 纯纯的建模嗯求关系,偏导数的概念+然后就是什么跨导之类的概念. $$ \begin{aligned} &amp;amp;\dot{I}_1=y_i \dot{V}_1+y_r \dot{V}_2 \newline &amp;amp;\dot{I}_2=y_f \dot{V}_1+y_o \dot{V}_2 \end{aligned} $$
 i=&amp;gt; input r=&amp;gt; reverse f=&amp;gt; forward o=&amp;gt; output
-核心要点在于 $r_{b^{&amp;rsquo;}b}$通常只有十几同式子中的</description>
+核心要点在于 $r_{b^{&amp;rsquo;}b}$通常只有十几同式子中的电容等产生的电抗相比太小了可以当作短路,以及$V_{be}$的含金量</description>
     </item>
     
   </channel>
