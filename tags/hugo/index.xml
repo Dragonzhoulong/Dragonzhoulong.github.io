@@ -22,7 +22,7 @@ Hugo博客目录修改至侧边 评论功能和浏览访问啥的算了吧,闲�
 定义 Definitions 标签 Taxonomy 可以被用来对内容分类的类型 条目 Term 分类中的键 值 Value 赋值某条目的一条内容 分类举例: 电影网站 我们假设在建的是关于电影的网站。您可能想包括如下分类:
 Actors 演员 Directors 导演 Studios 工作室 Genre 电影类型 Year 年份 Awards 获奖 然后, 对每个电影, 需要声明这些分类的条目(比如，在每个电影内容文件的front matter部分)。对于这些条目，Hugo自动为每个演员、导演、工作室、电影类型、年份和获奖情况创建对应页面，每个页面包含属于特定演员、导演、工作室、电影类型、年份或获奖情况的电影的列表。
 Hugo怎么分类 Hugo怎么新建文件 1 2 //直接使用命令的效果 $ hugo new about.md 新创建的about.md在目录content/里
-新建的文件是在哪里呢？ 1 $ hugo new post/xxx.md 新创建的xxx.md就在content/post/里</description>
+新建的文件是在哪里呢？ 1 $ hugo new post/xxx.md 新创建的xxx.md就在content/post/里 $$</description>
     </item>
     
   </channel>
