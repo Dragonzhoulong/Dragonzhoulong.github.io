@@ -20,7 +20,8 @@
 可以爬到第一节 如果可以爬到第k节，那么我们可以爬到第k+1节 现在我们先假设以上两句都成立，这样可以使用递归的方式来爬到第n节楼梯:
 首先可以爬到第1节楼梯，然后令k=1，由第二句可知我们可以爬到第2节，再令k=2，则可以爬到第3节。以此类推就可以爬到第n节了.
 强归纳法 用感性的语言来描述其实就是,强归纳法的强在于他的假设条件确实很强,同样拿上面第一归纳法的爬来举例,我们的假设 如果是可以爬到任意有限数量的一段楼梯,即$m_0\to m$这些节楼梯,可以推出可以爬到$m+1$节楼梯那么从$m_0$楼梯开始的任意节都是可以爬到的.多么强大的归纳法啊,上来就假设任意有限长度的楼梯都是可以爬到的,只要推到出来下一节是可以爬到的就可以完成归纳,其实简单的来看如果假设仅一节楼梯是可以爬到的,那么不就退化到来第一归纳法的形式了嘛?这样看来强归纳法的强确实很强. 那么怎么从第一归纳法推导出强归纳法来呢?
-(Strong principle of induction). Let $m_0$ be a natural number, and let P(m) be a property pertaining to an arbitrary natural number m. Suppose that for each m\geq m_0, we have the following implication: if P(m&amp;rsquo;) is true for all natural numbers $m_0\leq m&amp;rsquo;&amp;lt;m$, then P(m) is also true. (In particular, this means that P(m_0) is true, since in this case the hypothesis is vacuous.</description>
+Exercise 2.2.5. Prove Proposition 2.2.14.
+Proposition 2.2.14 (Strong principle of induction). Let $m_0$ be a natural number, and let $P(m)$ be a property pertaining to an arbitrary natural number $m$. Suppose that for each $m \geq m_0$, we have the following implication: if $P\left(m^{\prime}\right)$ is true for all natural numbers $m_0 \leq m^{\prime}&amp;lt;m$, then $P(m)$ is also true.</description>
     </item>
     
     <item>
