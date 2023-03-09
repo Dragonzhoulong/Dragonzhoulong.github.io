@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on along</title>
-    <link>https://alonga.xyz/tags/hugo/</link>
+    <link>https://dragonzhoulong.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on along</description>
     <image>
-      <url>https://alonga.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://alonga.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Jul 2022 01:14:22 +0800</lastBuildDate><atom:link href="https://alonga.xyz/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jul 2022 01:14:22 +0800</lastBuildDate><atom:link href="https://dragonzhoulong.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myfirst</title>
-      <link>https://alonga.xyz/post/myfirst/</link>
+      <link>https://dragonzhoulong.github.io/post/myfirst/</link>
       <pubDate>Sat, 09 Jul 2022 01:14:22 +0800</pubDate>
       
-      <guid>https://alonga.xyz/post/myfirst/</guid>
+      <guid>https://dragonzhoulong.github.io/post/myfirst/</guid>
       <description>关于PaperMod与Hugo PaperMod主题非常的简洁有一种纸质的质朴,看起来感觉很舒服.
 目前已经掌握的情报 目前已经进行的修改有 更改了主题默认的字体 =&amp;gt; &amp;ldquo;CaskaydiaCove Nerd Font&amp;rdquo; ,&amp;ldquo;更纱黑体&amp;rdquo; 但是本地没有这俩字体指定是显示成其他的字体了,好像有一种解决方案是将这些字体进行CDN加速啥的,具体实现是让这俩字体在一个GitHub仓库里然后在配置文件里填入两行链接啥的.准备在以后给仓库图片做加速的时候再说吧.目前觉得没必要搞太多的图片啥的,不方便管理能用文本尽量用文本吧.
 Hugo博客目录修改至侧边 评论功能和浏览访问啥的算了吧,闲得慌真的是. 为什么不能只用中文的字符和英文的逗号句号,感觉 需求 分类需要执行什么操作? 大概要分出来哪些类 记得记录好博客搭建中遇到的教程 关于分类的详细知识 分类的定义 Hugo包含对用户定义的内容分类-taxonomies 标签的支持. 标签是对内容逻辑关系的分类.

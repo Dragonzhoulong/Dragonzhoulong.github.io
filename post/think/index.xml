@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🍀think on along</title>
-    <link>https://alonga.xyz/post/think/</link>
+    <link>https://dragonzhoulong.github.io/post/think/</link>
     <description>Recent content in 🍀think on along</description>
     <image>
-      <url>https://alonga.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://alonga.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 16:38:54 +0800</lastBuildDate><atom:link href="https://alonga.xyz/post/think/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 16:38:54 +0800</lastBuildDate><atom:link href="https://dragonzhoulong.github.io/post/think/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Josephus_recursion</title>
-      <link>https://alonga.xyz/post/think/josephus_recursion/</link>
+      <link>https://dragonzhoulong.github.io/post/think/josephus_recursion/</link>
       <pubDate>Tue, 03 Jan 2023 16:38:54 +0800</pubDate>
       
-      <guid>https://alonga.xyz/post/think/josephus_recursion/</guid>
+      <guid>https://dragonzhoulong.github.io/post/think/josephus_recursion/</guid>
       <description>约瑟夫问题 The Josephus Problem 归纳 第一归纳法 对于有n节的梯子，我们想要从第一节爬到第n节，可以使用如下的方法：
 可以爬到第一节 如果可以爬到第k节，那么我们可以爬到第k+1节 现在我们先假设以上两句都成立，这样可以使用递归的方式来爬到第n节楼梯:
 首先可以爬到第1节楼梯，然后令k=1，由第二句可知我们可以爬到第2节，再令k=2，则可以爬到第3节。以此类推就可以爬到第n节了.
