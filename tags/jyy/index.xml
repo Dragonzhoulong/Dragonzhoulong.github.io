@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>jyy on along</title>
+    <link>https://dragonzhoulong.github.io/tags/jyy/</link>
+    <description>Recent content in jyy on along</description>
+    <image>
+      <url>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Mar 2023 00:20:01 +0800</lastBuildDate><atom:link href="https://dragonzhoulong.github.io/tags/jyy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xv6</title>
+      <link>https://dragonzhoulong.github.io/post/xv6/</link>
+      <pubDate>Sun, 12 Mar 2023 00:20:01 +0800</pubDate>
+      
+      <guid>https://dragonzhoulong.github.io/post/xv6/</guid>
+      <description>Xv6 Lab: Xv6 and Unix utilities utilitiespingpong pingpong (easy) Write a program that uses UNIX system calls to &amp;lsquo;&amp;lsquo;ping-pong&amp;rsquo;&amp;rsquo; a byte between two processes over a pair of pipes, one for each direction. The parent should send a byte to the child; the child should print &amp;ldquo;: received ping&amp;rdquo;, where is its process ID, write the byte on the pipe to the parent, and exit; the parent should read the byte from the child, print &amp;ldquo;: received pong&amp;rdquo;, and exit.</description>
+    </item>
+    
+  </channel>
+</rss>

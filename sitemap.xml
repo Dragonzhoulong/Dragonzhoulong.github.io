@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dragonzhoulong.github.io/</loc>
+    <lastmod>2023-03-12T00:20:01+08:00</lastmod>
+  </url><url>
+    <loc>https://dragonzhoulong.github.io/tags/jyy/</loc>
+    <lastmod>2023-03-12T00:20:01+08:00</lastmod>
+  </url><url>
+    <loc>https://dragonzhoulong.github.io/post/</loc>
+    <lastmod>2023-03-12T00:20:01+08:00</lastmod>
+  </url><url>
+    <loc>https://dragonzhoulong.github.io/tags/</loc>
+    <lastmod>2023-03-12T00:20:01+08:00</lastmod>
+  </url><url>
+    <loc>https://dragonzhoulong.github.io/tags/xv6/</loc>
+    <lastmod>2023-03-12T00:20:01+08:00</lastmod>
+  </url><url>
+    <loc>https://dragonzhoulong.github.io/post/xv6/</loc>
+    <lastmod>2023-03-12T00:20:01+08:00</lastmod>
+  </url><url>
     <loc>https://dragonzhoulong.github.io/post/think/</loc>
     <lastmod>2023-01-03T16:38:54+08:00</lastmod>
   </url><url>
-    <loc>https://dragonzhoulong.github.io/</loc>
-    <lastmod>2023-01-03T16:38:54+08:00</lastmod>
-  </url><url>
     <loc>https://dragonzhoulong.github.io/post/think/josephus_recursion/</loc>
-    <lastmod>2023-01-03T16:38:54+08:00</lastmod>
-  </url><url>
-    <loc>https://dragonzhoulong.github.io/post/</loc>
-    <lastmod>2023-01-03T16:38:54+08:00</lastmod>
-  </url><url>
-    <loc>https://dragonzhoulong.github.io/tags/</loc>
     <lastmod>2023-01-03T16:38:54+08:00</lastmod>
   </url><url>
     <loc>https://dragonzhoulong.github.io/tags/%E5%AE%9E%E5%88%86%E6%9E%90/</loc>

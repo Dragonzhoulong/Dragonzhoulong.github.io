@@ -9,7 +9,16 @@
       <link>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 16:38:54 +0800</lastBuildDate><atom:link href="https://dragonzhoulong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Mar 2023 00:20:01 +0800</lastBuildDate><atom:link href="https://dragonzhoulong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xv6</title>
+      <link>https://dragonzhoulong.github.io/post/xv6/</link>
+      <pubDate>Sun, 12 Mar 2023 00:20:01 +0800</pubDate>
+      
+      <guid>https://dragonzhoulong.github.io/post/xv6/</guid>
+      <description>Xv6 Lab: Xv6 and Unix utilities utilitiespingpong pingpong (easy) Write a program that uses UNIX system calls to &amp;lsquo;&amp;lsquo;ping-pong&amp;rsquo;&amp;rsquo; a byte between two processes over a pair of pipes, one for each direction. The parent should send a byte to the child; the child should print &amp;ldquo;: received ping&amp;rdquo;, where is its process ID, write the byte on the pipe to the parent, and exit; the parent should read the byte from the child, print &amp;ldquo;: received pong&amp;rdquo;, and exit.</description>
+    </item>
+    
     <item>
       <title>Eletronic</title>
       <link>https://dragonzhoulong.github.io/post/eletronic/</link>
