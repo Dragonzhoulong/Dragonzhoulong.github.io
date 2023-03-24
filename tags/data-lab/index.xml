@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>data lab on along</title>
+    <link>https://dragonzhoulong.github.io/tags/data-lab/</link>
+    <description>Recent content in data lab on along</description>
+    <image>
+      <url>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 03 Nov 2021 15:29:18 +0000</lastBuildDate><atom:link href="https://dragonzhoulong.github.io/tags/data-lab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSAPP_lab1_data</title>
+      <link>https://dragonzhoulong.github.io/post/datalab/</link>
+      <pubDate>Wed, 03 Nov 2021 15:29:18 +0000</pubDate>
+      
+      <guid>https://dragonzhoulong.github.io/post/datalab/</guid>
+      <description>CSAPP_Lab0_环境配置 Docker 让你省去配置环境的烦恼 搜索 CSAPP:什么：环境配置竟然这么简单
+WSL2 也很方便，省去了找Docker镜像，Vscode配置到本地端口等麻烦
+前置知识 逻辑移动 Logic Shift 如图，一个字节的数据向右移动一位，空出来的位用0填充
+11001111逻辑右移一位，最低位进入进位标识位
+算术移动 arithmetic shift 11001111，符号位为1，算术右移一位后得到11100111：
+​ SHL SHL（左移）指令使目的操作数逻辑左移一位，最低位用 0 填充。最高位移入进位标志位，而进位标志位中原来的数值被丢弃：
+若将 1100 1111 左移 1 位，该数就变为 1001 1110：
+SHL 的第一个操作数是目的操作数，第二个操作数是移位次数：
+SHL destination,count
+该指令可用的操作数类型如下所示：
+SHL reg, imm8 SHL mem, imm8 SHL reg, CL SHL mem, CL
+x86 处理器允许 imm8 为 0〜255 中的任何整数。另外，CL 寄存器包含的是移位计数。上述格式同样适用于 SHR、SAL、SAR、ROR、ROL、RCR 和 RCL 指令。
+[示例]下列指令中，BL 左移一位。最高位复制到进位标志位，最低位填充 0：
+mov b1, 8Fh ; BL = 10001111b shl bl, 1 ; CF = 1, BL = 00011110b</description>
+    </item>
+    
+  </channel>
+</rss>

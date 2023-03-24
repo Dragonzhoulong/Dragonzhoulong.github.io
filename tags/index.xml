@@ -82,5 +82,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>cs:app</title>
+      <link>https://dragonzhoulong.github.io/tags/csapp/</link>
+      <pubDate>Wed, 03 Nov 2021 15:29:18 +0000</pubDate>
+      
+      <guid>https://dragonzhoulong.github.io/tags/csapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cs:app lab</title>
+      <link>https://dragonzhoulong.github.io/tags/csapp-lab/</link>
+      <pubDate>Wed, 03 Nov 2021 15:29:18 +0000</pubDate>
+      
+      <guid>https://dragonzhoulong.github.io/tags/csapp-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data lab</title>
+      <link>https://dragonzhoulong.github.io/tags/data-lab/</link>
+      <pubDate>Wed, 03 Nov 2021 15:29:18 +0000</pubDate>
+      
+      <guid>https://dragonzhoulong.github.io/tags/data-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>汇编</title>
+      <link>https://dragonzhoulong.github.io/tags/%E6%B1%87%E7%BC%96/</link>
+      <pubDate>Wed, 03 Nov 2021 15:29:18 +0000</pubDate>
+      
+      <guid>https://dragonzhoulong.github.io/tags/%E6%B1%87%E7%BC%96/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
