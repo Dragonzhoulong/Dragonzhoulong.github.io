@@ -16,7 +16,9 @@
       <pubDate>Mon, 20 Nov 2023 16:32:47 +0800</pubDate>
       
       <guid>https://dragonzhoulong.github.io/post/fuck/</guid>
-      <description>摆了小十几天,重新抖擞精神一下了</description>
+      <description>摆了小十几天,重新抖擞精神一下了
+关于mkdocs,因为采用了鹤翔万里的方案可以仅上传code,编译由GitHub actions自动完成(GitHub action是一个很重要的东西,可以配置环境和编译命令,相当于一个服务器了(哈哈))
+关于hugo,就比较拉了,只能本地编译后(但是因为用了脚本,也是可以一键运行)</description>
     </item>
     
   </channel>
