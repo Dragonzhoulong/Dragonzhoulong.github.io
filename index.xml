@@ -9,7 +9,17 @@
       <link>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Dec 2023 15:45:35 +0800</lastBuildDate><atom:link href="https://dragonzhoulong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Dec 2023 21:41:42 +0800</lastBuildDate><atom:link href="https://dragonzhoulong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>杂记</title>
+      <link>https://dragonzhoulong.github.io/post/%E6%9D%82%E8%AE%B0/</link>
+      <pubDate>Wed, 06 Dec 2023 21:41:42 +0800</pubDate>
+      
+      <guid>https://dragonzhoulong.github.io/post/%E6%9D%82%E8%AE%B0/</guid>
+      <description>obsidian的写日记的体验很好=&amp;gt;我想有时候在vscode写日记有时候在obsidian写日记(这个需求真弱智),因为obsidian里面有图片,你觉得hugo papermod能够把图片加载的比较好么,我觉得其实可以?哈哈了
+可能是直接整条命令把东西弄过来 没必要了发出来的小而精得了</description>
+    </item>
+    
     <item>
       <title>Hard</title>
       <link>https://dragonzhoulong.github.io/emotion/hard/</link>
