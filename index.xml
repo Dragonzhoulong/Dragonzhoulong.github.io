@@ -9,7 +9,22 @@
       <link>https://dragonzhoulong.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Dec 2023 21:41:42 +0800</lastBuildDate><atom:link href="https://dragonzhoulong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Dec 2023 20:20:03 +0800</lastBuildDate><atom:link href="https://dragonzhoulong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一生一芯</title>
+      <link>https://dragonzhoulong.github.io/post/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF/</link>
+      <pubDate>Sat, 30 Dec 2023 20:20:03 +0800</pubDate>
+      
+      <guid>https://dragonzhoulong.github.io/post/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF/</guid>
+      <description>一生一芯 一生一芯做到了正式阶段,当然,预学习阶段的东西也忘得差不多了.
+看PA2视频 我直接进行一个视频的嗯看,虽然动辄一个小时的视频,确实很难顶 可以结合ddca(digital design and computer archteture)的课一起看?
+再次学习copilot的使用`` &amp;rsquo;tab&amp;rsquo;,自动用灰色文本建议, &amp;lsquo;alt&amp;rsquo;+&amp;rsquo;]&amp;rsquo;/&amp;rsquo;[&amp;lsquo;切换建议
+使用ctrl+enter在新选项卡中 点击accept solutions&amp;ndash;&amp;gt;即可
+使用copilot chat ctrl+shift+p&amp;ndash;&amp;gt;copilot chat
+了解git的原理 每次都卡死在这里,真的是无无又奈奈啊
+数字逻辑电路: 模拟器 #define REGS_FOREACH(_) _(X) _(Y) #define RUN_LOGIC X1 = !X &amp;amp;&amp;amp; Y; \ Y1 = !X &amp;amp;&amp;amp; !Y; #define DEFINE(X) static int X, X##1; #define UPDATE(X) X = X##1; #define PRINT(X) printf(#X &amp;quot; = %d; &amp;quot;, X); int main() { REGS_FOREACH(DEFINE); while (1) { // clock RUN_LOGIC; REGS_FOREACH(PRINT); REGS_FOREACH(UPDATE); putchar(&#39;\n&#39;); sleep(1); } } X-macro:好处和坏处?</description>
+    </item>
+    
     <item>
       <title>杂记</title>
       <link>https://dragonzhoulong.github.io/post/%E6%9D%82%E8%AE%B0/</link>
@@ -36,7 +51,8 @@
 2023年12月17日 今天看级数,还有再做一下真题
 2023年12月18日 寄,看概率论,烦烦烦难难难,多歧路,今安在,开始看了现在是两点二十分,看三个小时
 2023年12月22日 寄,
-2023年12月23日 似乎有点不幸的,有点小小感冒,嗓子有点难受,而且头有点昏,不知道是不是今天去考场没带口罩导致的</description>
+2023年12月23日 似乎有点不幸的,有点小小感冒,嗓子有点难受,而且头有点昏,不知道是不是今天去考场没带口罩导致的
+2023年12月24日 寄了,数学,寄了,寄了,寄了&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;. 下午都不想去了,直接开摆得了</description>
     </item>
     
     <item>
